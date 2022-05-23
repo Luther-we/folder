@@ -1,0 +1,1 @@
+// les requêtes graphQl propre au component dans lequel le dossier est placé

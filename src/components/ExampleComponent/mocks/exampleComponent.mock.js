@@ -1,0 +1,1 @@
+const EXAMPLE_COMPONENT_DATA = {}

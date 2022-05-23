@@ -1,0 +1,1 @@
+// ici les types partagés liés au domaine

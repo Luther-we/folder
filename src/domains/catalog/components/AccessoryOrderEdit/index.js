@@ -1,0 +1,1 @@
+// dans le cas d'un component utilisé dans un controller (ici AccessoryOrderController) mais également appelé au sein d'un autre élément, celui ce doit d'être appelé au sein du dossier component à la racine du domain

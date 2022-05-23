@@ -1,0 +1,1 @@
+// ici les fragments utilisés au sein de l'application complète
